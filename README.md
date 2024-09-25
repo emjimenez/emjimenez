@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! please visit my new account 👋
+
+This is my old account.
+
+Please, visit my new account at https://github.com/enriquemjg
 
 <!--
 **emjimenez/emjimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
